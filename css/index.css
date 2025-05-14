@@ -1,0 +1,22 @@
+h1 {
+    color: aqua;
+}
+
+p {
+    background-color: darkcyan;
+   padding: 5px;
+   border-radius: 5px;
+   font-size: 20px;
+}
+
+button {
+    background-color: gray;
+    padding: 10px 20px;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+}
+
+button:hover {
+    background: firebrick;
+}
